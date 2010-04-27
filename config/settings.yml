@@ -20,9 +20,9 @@
 # Settings can be defined through the application in Admin -> Settings
 
 app_title:
-  default: Redmine
+  default: Keeper
 app_subtitle:
-  default: Project management
+  default: Iridia Productions
 welcome_text:
   default:
 login_required:
@@ -46,7 +46,7 @@ activity_days_default:
 per_page_options:
   default: '25,50,100'
 mail_from:
-  default: redmine@example.net
+  default: keeper@iridia.tw
 bcc_recipients:
   default: 1
 plain_text_mail:
